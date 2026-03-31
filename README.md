@@ -3,6 +3,15 @@
 ## AIM
 To develop an image classification model using transfer learning with VGG19 architecture for the given dataset.
 
+## PROBLEM STATEMENT
+
+The objective of this experiment is to develop an image classification model using transfer learning with the VGG19 architecture. The model should classify images from a given dataset into predefined categories with high accuracy. By leveraging pre-trained weights, the model aims to reduce training time and improve performance, especially when working with limited data.\
+
+## THEORY
+
+Transfer learning is a technique where a pre-trained model is reused for a new task to improve performance and reduce training time. The VGG19 model is a deep convolutional neural network trained on large datasets like ImageNet. It acts as a feature extractor, capturing important patterns such as edges and textures from images. The final layers are modified and trained for the specific classification problem. This approach helps achieve higher accuracy even with limited data.
+
+
 ## Neural Network Model
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/183ab078-30f5-4f02-bd94-a1fc662d1eae" />
 
